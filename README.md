@@ -6,5 +6,3 @@
 
 - 💬 Ask me about **ML , NLP , CV , Deep learning**
 
-- 📫 How to reach me **vinaychaudhari@gmail.com**
-
